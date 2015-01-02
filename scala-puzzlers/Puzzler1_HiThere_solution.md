@@ -17,7 +17,7 @@ What is the result of executing the following code in the REPL?
 
 **Explanation:**
 
-Although they look similar, statement 1 and 2 are very different in reality: Anonymous functions defined using placeholder syntax have a scope that stretches only to the expression containing the underscore (_). 
+Although statement 1 and 2 look similar, they are very different in reality: Anonymous functions defined using placeholder syntax have a scope that stretches only to the expression containing the underscore (_). 
 
 The first statement, { i => println("Hi"); i + 1 }, is identified as one function literal expression of the form arg => expr, with expr here being the block, println("Hi"); i + 1.
 
