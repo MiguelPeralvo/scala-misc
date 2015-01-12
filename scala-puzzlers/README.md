@@ -1,1 +1,1 @@
-Analysis of items from the book ["Scala Puzzlers"] (http://www.artima.com/shop/scala_puzzlers) from Andrew Phillips and Nermin Šerifovicc"
+Analysis of some items belonging to the book ["Scala Puzzlers"] (http://www.artima.com/shop/scala_puzzlers) from Andrew Phillips and Nermin Nermin Šerifović.
