@@ -1,0 +1,1 @@
+(1 to 100).map((a:Int) => {if(a%15==0) "FizzBuzz" else if (a%3==0) "Fizz" else if (a%5==0) "Buzz" else a.toString}).foreach { println}
